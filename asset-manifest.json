@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/temperatura/static/css/main.3d93d1ce.css",
+    "main.js": "/temperatura/static/js/main.15c4562c.js",
+    "static/media/sunset.jpg": "/temperatura/static/media/sunset.8d118896df4c5d96ae10.jpg",
+    "index.html": "/temperatura/index.html",
+    "main.3d93d1ce.css.map": "/temperatura/static/css/main.3d93d1ce.css.map",
+    "main.15c4562c.js.map": "/temperatura/static/js/main.15c4562c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d93d1ce.css",
+    "static/js/main.15c4562c.js"
+  ]
+}
